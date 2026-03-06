@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-# 👾 [Indraa] — Unity Game Developer
+# 👾 Kendraa — Unity Game Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Unity+Game+Developer+%F0%9F%8E%AE;C%23+%26+Game+Systems+Architect+%F0%9F%94%A7;2D+%26+3D+Game+Enthusiast+%F0%9F%8C%9F;Level+Designer+%26+Gameplay+Programmer+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -76,11 +76,11 @@ public class Developer : MonoBehaviour
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenn-ind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamekamu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenn-ind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usernamekamu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenn-ind&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88)
 
 </div>
 
@@ -99,9 +99,9 @@ UI/UX in Unity           ██████████░░░░░░░░�
 
 <div align="center">
 
-[![Game 1](https://github-readme-stats.vercel.app/api/pin/?username=usernamekamu&repo=nama-repo-game1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)](https://github.com/usernamekamu/nama-repo-game1)
+[![Shadow of The Lost Knight](https://github-readme-stats.vercel.app/api/pin/?username=usernamekamu&repo=nama-repo-game1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)](https://github.com/Kenn-ind/Game-STLK)
 
-[![Game 2](https://github-readme-stats.vercel.app/api/pin/?username=usernamekamu&repo=nama-repo-game2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)](https://github.com/usernamekamu/nama-repo-game2)
+[![Null](https://github-readme-stats.vercel.app/api/pin/?username=usernamekamu&repo=nama-repo-game2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)](https://github.com/Kenn-ind/Game-Top-Down)
 
 </div>
 
