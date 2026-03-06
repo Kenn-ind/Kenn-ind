@@ -13,7 +13,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Unity+Game+Developer+%F0%9F%8E%AE;C%23+%26+Game+Systems+Architect+%F0%9F%94%A7;2D+%26+3D+Game+Enthusiast+%F0%9F%8C%9F;Level+Designer+%26+Gameplay+Programmer+%F0%9F%8F%86)](https://git.io/typing-svg)
 
+![Mayuri Shiina](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZiajlwYmFvYmR0emNjY3liMHQ3bHRhaXQ2eGl3OTRzZ3UxdDQ3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RoOozGUtMbJOE/giphy.gif)
 </div>
+
 
 ---
 
@@ -42,7 +44,7 @@ public class Developer : MonoBehaviour
 | Judul Game | Genre | Platform | Status |
 |---|---|---|---|
 | 🗡️ **[Shadow of The Lost Knight]** | Action RPG | PC / Android | 🔨 In Development |
-| 🧩 **[Null]** | Adventure | PC | 🔨 In Development |
+| 🧩 **[Undefined]** | Adventure | PC | 🔨 In Development |
 
 > 💡 *Lihat semua proyek saya di tab [Repositories](https://github.com/Kenn-ind?tab=repositories)*
 
@@ -94,9 +96,9 @@ UI/UX in Unity           ██████████░░░░░░░░�
 
 <div align="center">
 
-- 🎞️ [**Shadow of The Lost Knight**](https://github.com/Kenn-ind/Game-STLK)
+- ⚔️ [**Shadow of The Lost Knight**](https://github.com/Kenn-ind/Game-STLK)
 
-- 🎞️ [**NoName**](https://github.com/Kenn-ind/Game-Top-Down)
+- 👾 [**NoName**](https://github.com/Kenn-ind/Game-Top-Down)
 
 </div>
 
