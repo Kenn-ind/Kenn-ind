@@ -65,7 +65,6 @@ public class Developer : MonoBehaviour
 
 ### 📦 Unity Packages & Systems
 - ⚙️ **Unity Input System** — Modern input handling
-- 🌐 **Netcode for GameObjects** — Multiplayer networking
 - 🎞️ **Cinemachine** — Dynamic camera system
 - 🔊 **FMOD / Unity Audio** — Audio design & implementation
 - 🌟 **Universal Render Pipeline (URP)** — Optimized rendering
@@ -76,10 +75,6 @@ public class Developer : MonoBehaviour
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenn-ind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenn-ind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenn-ind&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88)
 
 </div>
@@ -89,19 +84,19 @@ public class Developer : MonoBehaviour
 ## 🧠 Keahlian Unity
 
 ```
-Gameplay Programming     ████████████████░░░░  80%
+Gameplay Programming     █████████████████░░░  85%
 2D Game Development      █████████████████░░░  85%
 Mobile Optimization      ██████████████░░░░░░  70%
 UI/UX in Unity           ██████████░░░░░░░░░░  50%
 ```
 
-## 📌 Proyek Unggulan
+## 📌 My Games
 
 <div align="center">
 
-[![Shadow of The Lost Knight](https://github-readme-stats.vercel.app/api/pin/?username=usernamekamu&repo=nama-repo-game1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)](https://github.com/Kenn-ind/Game-STLK)
+- 🎞️ [**Shadow of The Lost Knight**](https://github.com/Kenn-ind/Game-STLK)
 
-[![Null](https://github-readme-stats.vercel.app/api/pin/?username=usernamekamu&repo=nama-repo-game2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)](https://github.com/Kenn-ind/Game-Top-Down)
+- 🎞️ [**NoName**](https://github.com/Kenn-ind/Game-Top-Down)
 
 </div>
 
