@@ -32,7 +32,7 @@ public class Developer : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("Hello, World! Let's build something epic! 🚀");
+        Debug.Log("Hello, World! Let's build something peak! 🚀");
     }
 }
 ```
