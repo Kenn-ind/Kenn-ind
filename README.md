@@ -121,7 +121,7 @@ UI/UX in Unity           ██████████░░░░░░░░�
 ![Visitor Count](https://komarev.com/ghpvc/?username=usernamekamu&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
 
 ```
-"Make games that make people addicted."
+"Stay consistent, ship anyway, iterate later. Done is better than perfect — but great is still the goal." 
 ```
 
 ⚔️ *Currently working on something epic... stay tuned!* 🎮
