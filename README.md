@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-# 👾 Kendraa — Unity Game Developer
+# 👾 Kendraa — Unity Game Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Unity+Game+Developer+%F0%9F%8E%AE;C%23+%26+Game+Systems+Architect+%F0%9F%94%A7;2D+%26+3D+Game+Enthusiast+%F0%9F%8C%9F;Level+Designer+%26+Gameplay+Programmer+%F0%9F%8F%86)](https://git.io/typing-svg)
 
